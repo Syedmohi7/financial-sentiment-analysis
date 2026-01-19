@@ -144,4 +144,3 @@ This project reflects my approach to data problems:
 ### ⭐ If you like this project, feel free to give it a star!
 
 
-Just tell me 👍
